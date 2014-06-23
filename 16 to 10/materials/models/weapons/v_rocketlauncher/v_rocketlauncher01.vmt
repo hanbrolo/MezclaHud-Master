@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\weapons\v_rocketlauncher\v_rocketlauncher01"
+	"$translucent" "1"
+}
